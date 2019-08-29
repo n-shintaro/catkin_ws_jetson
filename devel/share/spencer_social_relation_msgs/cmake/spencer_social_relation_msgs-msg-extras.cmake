@@ -1,0 +1,2 @@
+set(spencer_social_relation_msgs_MESSAGE_FILES "/home/nvidia/catkin_ws/src/pedsim_ros/2ndparty/spencer_messages/spencer_social_relation_msgs/msg/SocialRelation.msg;/home/nvidia/catkin_ws/src/pedsim_ros/2ndparty/spencer_messages/spencer_social_relation_msgs/msg/SocialRelations.msg;/home/nvidia/catkin_ws/src/pedsim_ros/2ndparty/spencer_messages/spencer_social_relation_msgs/msg/SocialActivity.msg;/home/nvidia/catkin_ws/src/pedsim_ros/2ndparty/spencer_messages/spencer_social_relation_msgs/msg/SocialActivities.msg")
+set(spencer_social_relation_msgs_SERVICE_FILES "")
